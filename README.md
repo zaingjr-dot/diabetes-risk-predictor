@@ -49,5 +49,5 @@ streamlit run app.py
 
 ## Author
 
-[Muhammad Zain] — [zaingjr@gmail.com]
-
+Muhammad Zain
+Zaingjr@gmail.com
