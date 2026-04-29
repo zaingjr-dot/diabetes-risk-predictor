@@ -28,8 +28,7 @@ quality, clinical evaluation metrics, and model interpretability.
 - Selected XGBoost for its capacity to model non-linear feature interactions
 - Integrated SHAP explainability to produce feature-level interpretations 
   for individual patient predictions
-  Raw Data → Quality Assessment → Conditional Imputation →
-SMOTE Balancing → XGBoost Training → SHAP Explanation → Streamlit App
+ 
 
 ## Technologies Used
 
@@ -51,6 +50,4 @@ streamlit run app.py
 ## Author
 
 [Muhammad Zain] — [zaingjr@gmail.com]
-- Deployed as an interactive Streamlit web application
 
-## Pipeline
