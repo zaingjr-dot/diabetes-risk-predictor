@@ -1,4 +1,4 @@
-# Diabetes Risk Predictor — Explainable Clinical ML
+# Diabetes Risk Predictor 
 
 A machine learning system for diabetes risk prediction built with XGBoost 
 and SHAP explainability, deployed as an interactive Streamlit web application.
